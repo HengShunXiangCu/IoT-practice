@@ -15,7 +15,7 @@ Tutorial of IoT with arduino
 * Show digital and analog examples 
 * Form the methodology
 
-# Part Two : Input from Sensor Projects
+# Part Two : Input from Sensor
 
 ### Practice 1 : With Liquid Level Sensor
 
