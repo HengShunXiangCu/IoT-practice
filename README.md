@@ -2,6 +2,12 @@
 
 Tutorial of IoT with arduino
 
+# Part Zero : Prerequistion
+
+### Practice 1 : Introduction of aux tools
+
+### Practice 2 : Measurement of electronic attributes
+
 # Part One : History and Foundamental concepts
 
 ### Practice 1 : History and State-Of-Art
